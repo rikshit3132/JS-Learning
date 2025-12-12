@@ -44,7 +44,7 @@
 //   return allSum;
 // }
 // let ans = sum(1,2,4,5);
-// console.log(ans)
+// console.log(ans);//12
 
 
 // Advanced Examples
@@ -69,8 +69,8 @@
 
 
 // let arr = [1, 2];
-// let obj = { ...arr };
-// console.log(obj);
+// let obj = { ...arr }; 
+// console.log(obj);//{0:1,1:2}
 
 
 // let obj = { a: 1, b: 2 };

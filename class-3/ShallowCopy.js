@@ -40,9 +40,9 @@
 
 
 // Using concat() for Arrays
-let arr = [1, 2, { x: 10 }];
-let copy = [].concat(arr);
+// let arr = [1, 2, { x: 10 }];
+// let copy = [].concat(arr);
 
-Proof:
-copy[2].x = 777;
-console.log(arr[2].x); // 777
+// Proof:
+// copy[2].x = 777;
+// console.log(arr[2].x); // 777
