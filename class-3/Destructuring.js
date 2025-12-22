@@ -44,7 +44,7 @@ let obj = { t: 10 };
 let { t, p = t } = obj;
 
 console.log(t); // 10
-console.log(p); // 20
+console.log(p); // 10
 console.log(obj);
 
 
