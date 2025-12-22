@@ -7,7 +7,9 @@
 // }
 // console.log(pokemon.getpokemonFullName())
 // how binds works?
-// Bind makes a replica of getpokemonFullName() and store it into different function so that we can use that in the future.
+// Bind makes a replica of getpokemonFullName() and 
+// store it into different function so that we can 
+// use that in the future.
 
 // function getName(){
 //     console.log(this.getpokemonFullName()+' i love it!')
