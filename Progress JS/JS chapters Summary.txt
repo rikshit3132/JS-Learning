@@ -66,7 +66,7 @@
 1) Intro to closures
 2) lexical scope
 3) working of closures
-4)Examples of closures
+4) Examples of closures
 5) Apllications of closures
 6) functions currying
 7) closures with var
