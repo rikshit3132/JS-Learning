@@ -15,19 +15,22 @@
 // newFunction();
 // console.log(greeter)
 
-// 2)redeclare and updation:-var can be redeclare and updated in future
+// 2)redeclare and updation:-var can be
+//  redeclare and updated in future
 // var fName = "sundar";
 // fName = "Rahul";
 // console.log(fName)
 // var fName = "Manish"
 // console.log(fName)
 
-// 3) Hoisting:- Means variables and functions declaration is moved upwards before code execution.
+// 3) Hoisting:- Means variables and functions 
+// declaration is moved upwards before code execution.
 
 // console.log(message);
 // var message = "Hie,Good morning";
 
-// let variables:-1) scope of var variable are block and functional scoped
+// let variables:-1) scope of let variable are 
+// block and functional scoped
 
 // let fruit = "Mango";
 // console.log(fruit);
