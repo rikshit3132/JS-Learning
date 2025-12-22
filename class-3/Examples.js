@@ -9,5 +9,5 @@ const user = {
     name : "Naresh"
 }
 person.printName.call(user,"Krish",43);
-// person.printName.call(null);
-// person.printName.call(undefined)
+// person.printName.call(null);//undefined
+// person.printName.call(undefined);//undefined
