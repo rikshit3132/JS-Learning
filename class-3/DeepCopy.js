@@ -23,7 +23,7 @@ import _ from "https://cdn.jsdelivr.net/npm/lodash-es@4.17.21/lodash.min.js";
 // let arr2 = [...arr];
 // arr2[3][0] = 999;
 // console.log(arr[3])//999
-// console.log(arr2[3]);//99
+// console.log(arr2[3]);//999
 // It means the address of inner arrays are same and
 // need to deep clone in order to change the address.
 
