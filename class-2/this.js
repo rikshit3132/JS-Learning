@@ -61,7 +61,9 @@
 // console.log("My name is: ",person.getName());
 
 //  o/p is undefined undefined
-// This is because arrow functions does'nt have its own this, so it will go to outer scope till global execution scope
+// This is because arrow functions does'nt have its own
+//  this, so it will go to outer scope till
+//  global execution scope
 
 // const captainAmerica1 = {
 //   name: "Steve Rogers",
