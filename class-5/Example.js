@@ -13,7 +13,7 @@
 //         this.type = type;
 //     }
 //     area(radius){
-//         return 3.14*radius*radius;
+//         return Math.pi*radius*radius;
 //     }
 // }
 // class Rectangle extends Shapes{
