@@ -67,14 +67,28 @@
 2) lexical scope
 3) working of closures
 4) Examples of closures
-5) Apllications of closures
+5) Applications of closures
 6) functions currying
 7) closures with var
 8) closures with let
 9) infinite fn currying
+10) memoisation
 
+### JS chapter 7 topics
+1)  Types of creating Objects
+2)  Object Literals
+3) Object constructor
+4) constructor function Obj
+5)  ES-6 classes object creation
+6)  object.create()
+7)  using factory function
+8) static functions of objects
+9) property Descriptor
+10) define property
+11) writable,enumrable,configurable
+12) Map and sets in js
+13) weakMap and weaksets
 
-
-
-
-
+### JS chapter 8 topics
+1)Synchronus vs Asynchronus
+2) single and multi threaded
