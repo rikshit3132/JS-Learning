@@ -27,15 +27,15 @@
 // Private data
 // Memory-safe caching
 
-let obj2 = { key: "firtname" };
-const obj3 = { key: "lastname" };
-const set1 = new WeakSet();
-set1.add(obj2);
-set1.add(obj3);
+// let obj2 = { key: "firtname" };
+// const obj3 = { key: "lastname" };
+// const set1 = new WeakSet();
+// set1.add(obj2);
+// set1.add(obj3);
 // console.log(set1);//object object
 // console.log(set1.has(obj2));//true
-obj2 = {key : "myname"};
-console.log(set1);
+// obj2 = {key : "myname"};
+// console.log(set1);
 // console.log(set1.has(obj2));
 
 
