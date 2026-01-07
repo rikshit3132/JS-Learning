@@ -92,3 +92,12 @@
 ### JS chapter 8 topics
 1)Synchronus vs Asynchronus
 2) single and multi threaded
+3) Examples of Synchronus & Asynchronus
+4) callback
+5) event loop
+6) How async code got executed in js?
+7) Web api,callback queue,Event loop
+8) Reading file in js
+9) file system in sync and asyc
+10) IIFE 
+11) Modules
